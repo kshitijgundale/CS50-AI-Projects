@@ -1,4 +1,6 @@
-Experimentation Log 
+# German Traffic Sign Detection
+
+## Experimentation Log 
 
 Intial setup was as follows:
 
